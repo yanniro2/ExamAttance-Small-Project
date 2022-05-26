@@ -1,0 +1,15 @@
+C:\Users\NiroyanKugaruban\Desktop\New folder (2)\bin\Debug\net6.0\New folder (2).exe
+C:\Users\NiroyanKugaruban\Desktop\New folder (2)\bin\Debug\net6.0\New folder (2).deps.json
+C:\Users\NiroyanKugaruban\Desktop\New folder (2)\bin\Debug\net6.0\New folder (2).runtimeconfig.json
+C:\Users\NiroyanKugaruban\Desktop\New folder (2)\bin\Debug\net6.0\New folder (2).dll
+C:\Users\NiroyanKugaruban\Desktop\New folder (2)\bin\Debug\net6.0\New folder (2).pdb
+C:\Users\NiroyanKugaruban\Desktop\New folder (2)\obj\Debug\net6.0\New folder (2).csproj.AssemblyReference.cache
+C:\Users\NiroyanKugaruban\Desktop\New folder (2)\obj\Debug\net6.0\New folder (2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NiroyanKugaruban\Desktop\New folder (2)\obj\Debug\net6.0\New folder (2).AssemblyInfoInputs.cache
+C:\Users\NiroyanKugaruban\Desktop\New folder (2)\obj\Debug\net6.0\New folder (2).AssemblyInfo.cs
+C:\Users\NiroyanKugaruban\Desktop\New folder (2)\obj\Debug\net6.0\New folder (2).csproj.CoreCompileInputs.cache
+C:\Users\NiroyanKugaruban\Desktop\New folder (2)\obj\Debug\net6.0\New folder (2).dll
+C:\Users\NiroyanKugaruban\Desktop\New folder (2)\obj\Debug\net6.0\refint\New folder (2).dll
+C:\Users\NiroyanKugaruban\Desktop\New folder (2)\obj\Debug\net6.0\New folder (2).pdb
+C:\Users\NiroyanKugaruban\Desktop\New folder (2)\obj\Debug\net6.0\New folder (2).genruntimeconfig.cache
+C:\Users\NiroyanKugaruban\Desktop\New folder (2)\obj\Debug\net6.0\ref\New folder (2).dll
